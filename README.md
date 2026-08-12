@@ -108,7 +108,7 @@ Distribution Transformer
  Energy Measurement
         │
         ▼
-      ESP32
+      MCU
         │
         ├──── Local Communication
         │
@@ -126,9 +126,8 @@ Distribution Transformer
 `Hardware Design`
 `PCB`
 `Embedded C++`
-`ESP32`
+`MCU`
 `Energy Metering`
-`ADE9000`
 `Industrial Communication`
 `Telemetry`
 `OTA`
