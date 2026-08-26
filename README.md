@@ -269,27 +269,28 @@ IoT Nodes
 <div align="center">
 
 <img
-  height="180"
-  src="https://github-stats-extended.vercel.app/api?username=luthfipratamaps&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
+  width="98%"
+  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+  alt="GitHub profile activity details"
 />
-
-<img
-  height="180"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=luthfipratamaps&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-/>
-
-</div>
 
 <br>
 
-<div align="center">
+<img
+  width="49%"
+  src="./profile-summary-card-output/github_dark/3-stats.svg"
+  alt="GitHub statistics"
+/>
 
 <img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=luthfipratamaps&theme=github-compact&hide_border=true&area=true&custom_title=Development%20Activity"
+  width="49%"
+  src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+  alt="Most committed languages"
 />
 
 </div>
+
+> These cards are generated inside this repository using GitHub Actions rather than loaded from a public stats endpoint. With an authorized token and private-contribution visibility enabled, private-repository contribution counts can be included without exposing private repository details.
 
 ---
 
